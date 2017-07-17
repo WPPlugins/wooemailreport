@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-23 09:34+0200\n"
+"PO-Revision-Date: 2016-07-23 09:34+0200\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: eggemplo\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../core/class-wooreport-reports.php:309
+#: ../core/class-wooreport-reports.php:1692
+msgid "Year:"
+msgstr "Año:"
+
+#: ../core/class-wooreport-reports.php:315
+#: ../core/class-wooreport-reports.php:429
+#: ../core/class-wooreport-reports.php:527
+#: ../core/class-wooreport-reports.php:683
+#: ../core/class-wooreport-reports.php:810
+#: ../core/class-wooreport-reports.php:943
+#: ../core/class-wooreport-reports.php:1698
+#: ../core/class-wooreport-reports.php:1881
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../core/class-wooreport-reports.php:320
+msgid "Total sales for year"
+msgstr "Ventas totales para el año"
+
+#: ../core/class-wooreport-reports.php:322
+#: ../core/class-wooreport-reports.php:328
+#: ../core/class-wooreport-reports.php:334
+#: ../core/class-wooreport-reports.php:340
+#: ../core/class-wooreport-reports.php:818
+#: ../core/class-wooreport-reports.php:824
+#: ../core/class-wooreport-reports.php:830
+#: ../core/class-wooreport-reports.php:1264
+#: ../core/class-wooreport-reports.php:1270
+#: ../core/class-wooreport-reports.php:1276
+#: ../core/class-wooreport-reports.php:1282
+#: ../core/class-wooreport-reports.php:1288
+#: ../core/class-wooreport-reports.php:1294
+#: ../core/class-wooreport-reports.php:1709
+#: ../core/class-wooreport-reports.php:1720
+#: ../core/class-wooreport-reports.php:1731
+msgid "n/a"
+msgstr "n / a"
+
+#: ../core/class-wooreport-reports.php:326
+msgid "Total orders for year"
+msgstr "Total de los pedidos por año"
+
+#: ../core/class-wooreport-reports.php:328
+msgid "items"
+msgstr "Artículos"
+
+#: ../core/class-wooreport-reports.php:332
+msgid "Average order total for year"
+msgstr "Promedio total del pedido por año"
+
+#: ../core/class-wooreport-reports.php:338
+msgid "Average order items for year"
+msgstr "Promedio de artículos pedidos por año"
+
+#: ../core/class-wooreport-reports.php:346
+msgid "Monthly sales for year"
+msgstr "Ventas mensuales para el año"
+
+#: ../core/class-wooreport-reports.php:429
+#: ../core/class-wooreport-reports.php:527
+#: ../core/class-wooreport-reports.php:810
+msgid "From:"
+msgstr "De:"
+
+#: ../core/class-wooreport-reports.php:429
+#: ../core/class-wooreport-reports.php:527
+#: ../core/class-wooreport-reports.php:810
+msgid "To:"
+msgstr "A:"
+
+#: ../core/class-wooreport-reports.php:434
+#: ../core/class-wooreport-reports.php:532
+msgid "Product"
+msgstr "Producto"
+
+#: ../core/class-wooreport-reports.php:435
+#: ../core/class-wooreport-reports.php:533
+#: ../core/class-wooreport-reports.php:652
+msgid "Sales"
+msgstr "Ventas"
+
+#: ../core/class-wooreport-reports.php:449
+msgid "Product does not exist"
+msgstr "No existe el Producto"
+
+#: ../core/class-wooreport-reports.php:548
+msgid "Product no longer exists"
+msgstr "Ya no existe el Producto"
+
+#: ../core/class-wooreport-reports.php:647
+#, php-format
+msgid "Sales for %s:"
+msgstr "Ventas para %s:"
+
+#: ../core/class-wooreport-reports.php:651
+#: ../core/class-wooreport-reports.php:1740
+msgid "Month"
+msgstr "Mes"
+
+#: ../core/class-wooreport-reports.php:673
+msgid "No sales :("
+msgstr "Sin ventas L"
+
+#: ../core/class-wooreport-reports.php:683
+msgid "Search for a product&hellip;"
+msgstr "(Buscar un producto&hellip;"
+
+#: ../core/class-wooreport-reports.php:816
+msgid "Total orders containing coupons"
+msgstr "Total de pedidos que contienen cupones"
+
+#: ../core/class-wooreport-reports.php:822
+msgid "Percent of orders containing coupons"
+msgstr "Porcentaje de órdenes que contienen cupones"
+
+#: ../core/class-wooreport-reports.php:828
+msgid "Total coupon discount"
+msgstr "Total de descuento por cupón"
+
+#: ../core/class-wooreport-reports.php:837
+msgid "Most popular coupons"
+msgstr "Cupones más leídos"
+
+#: ../core/class-wooreport-reports.php:850
+#: ../core/class-wooreport-reports.php:872
+msgid "No coupons found"
+msgstr "No se encontraron cupones"
+
+#: ../core/class-wooreport-reports.php:859
+msgid "Greatest discount amount"
+msgstr "Importe del descuento grande"
+
+#: ../core/class-wooreport-reports.php:869
+#, php-format
+msgid "Discounted %s"
+msgstr "Descontado %s"
+
+#: ../core/class-wooreport-reports.php:928
+#: ../core/class-wooreport-reports.php:1858
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: ../core/class-wooreport-reports.php:985
+msgid "Coupon"
+msgstr "Cupón"
+
+#: ../core/class-wooreport-reports.php:1000
+#: ../core/class-wooreport-reports.php:1053
+#: ../core/class-wooreport-reports.php:1775
+#: ../core/class-wooreport-reports.php:1944
+#: ../core/class-wooreport-reports.php:2022
+msgid "Total"
+msgstr "Total"
+
+#: ../core/class-wooreport-reports.php:1068
+msgid "Top coupon"
+msgstr "Mejores Cupones"
+
+#: ../core/class-wooreport-reports.php:1076
+msgid "Worst coupon"
+msgstr "Peor Cupón"
+
+#: ../core/class-wooreport-reports.php:1084
+msgid "Discount average"
+msgstr "Descuento promedio"
+
+#: ../core/class-wooreport-reports.php:1092
+msgid "Discount median"
+msgstr "Mediana del Descuento"
+
+#: ../core/class-wooreport-reports.php:1096
+#: ../core/class-wooreport-reports.php:2060
+#: ../core/class-wooreport-reports.php:2069
+msgid "N/A"
+msgstr "N/A"
+
+#: ../core/class-wooreport-reports.php:1112
+msgid "Monthly discounts by coupon"
+msgstr "Descuentos mensuales por cupón"
+
+#: ../core/class-wooreport-reports.php:1262
+msgid "Total customers"
+msgstr "Clientes totales"
+
+#: ../core/class-wooreport-reports.php:1268
+msgid "Total customer sales"
+msgstr "Ventas totales de clientes"
+
+#: ../core/class-wooreport-reports.php:1274
+msgid "Total guest sales"
+msgstr "Ventas totales invitados"
+
+#: ../core/class-wooreport-reports.php:1280
+msgid "Total customer orders"
+msgstr "Órdenes totales de los clientes"
+
+#: ../core/class-wooreport-reports.php:1286
+msgid "Total guest orders"
+msgstr "Órdenes totales de los invitados"
+
+#: ../core/class-wooreport-reports.php:1292
+msgid "Average orders per customer"
+msgstr "Promedio de pedidos por cliente"
+
+#: ../core/class-wooreport-reports.php:1300
+msgid "Signups per day"
+msgstr "Inscripciones por día"
+
+#: ../core/class-wooreport-reports.php:1472
+msgid "Low stock"
+msgstr "Inventario bajo"
+
+#: ../core/class-wooreport-reports.php:1488
+#: ../core/class-wooreport-reports.php:1524
+msgid "SKU"
+msgstr "SKU"
+
+#: ../core/class-wooreport-reports.php:1500
+msgid "No products are low in stock."
+msgstr "Ningún producto está bajo en inventario."
+
+#: ../core/class-wooreport-reports.php:1508
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: ../core/class-wooreport-reports.php:1532
+msgid "Marked out of stock"
+msgstr "Marcado agotado"
+
+#: ../core/class-wooreport-reports.php:1539
+msgid "No products are out in stock."
+msgstr "Ningún producto está agotado."
+
+#: ../core/class-wooreport-reports.php:1703
+msgid "Total taxes for year"
+msgstr "Impuestos totales para el año"
+
+#: ../core/class-wooreport-reports.php:1714
+msgid "Total product taxes for year"
+msgstr "Impuestos totales a los productos para el año"
+
+#: ../core/class-wooreport-reports.php:1725
+msgid "Total shipping tax for year"
+msgstr "Total del impuesto por envío para el año"
+
+#: ../core/class-wooreport-reports.php:1741
+msgid "Total Sales"
+msgstr "Ventas Totales"
+
+#: ../core/class-wooreport-reports.php:1741
+msgid "This is the sum of the 'Order Total' field within your orders."
+msgstr "Esta es la suma del campo \"Total de Pedidos” dentro de sus órdenes."
+
+#: ../core/class-wooreport-reports.php:1742
+msgid "Total Shipping"
+msgstr "Total de Envío"
+
+#: ../core/class-wooreport-reports.php:1742
+msgid "This is the sum of the 'Shipping Total' field within your orders."
+msgstr "Esta es la suma del campo Total por Envíos” dentro de sus órdenes."
+
+#: ../core/class-wooreport-reports.php:1743
+msgid "Total Product Taxes"
+msgstr "Impuestos totales del producto"
+
+#: ../core/class-wooreport-reports.php:1743
+msgid "This is the sum of the 'Cart Tax' field within your orders."
+msgstr ""
+"Esta es la suma del campo “Impuesto por Carrito” dentro de sus órdenes."
+
+#: ../core/class-wooreport-reports.php:1744
+msgid "Total Shipping Taxes"
+msgstr "Totales Impuestos por Envíos"
+
+#: ../core/class-wooreport-reports.php:1744
+msgid "This is the sum of the 'Shipping Tax' field within your orders."
+msgstr ""
+"Esta es la suma del campo \"Impuesto por Envíos” dentro de sus órdenes."
+
+#: ../core/class-wooreport-reports.php:1745
+msgid "Total Taxes"
+msgstr "Impuestos Totales"
+
+#: ../core/class-wooreport-reports.php:1745
+msgid ""
+"This is the sum of the 'Cart Tax' and 'Shipping Tax' fields within your "
+"orders."
+msgstr ""
+"Esta es la suma del campo \"Impuesto por Carrito” e \"Impuesto por Envíos” "
+"dentro de sus órdenes."
+
+#: ../core/class-wooreport-reports.php:1746
+msgid "Net profit"
+msgstr "Utilidad neta"
+
+#: ../core/class-wooreport-reports.php:1746
+msgid "Total sales minus shipping and tax."
+msgstr "Total de ventas menos gastos de envío y de impuestos."
+
+#: ../core/class-wooreport-reports.php:1791
+msgid "Toggle tax rows"
+msgstr "Alternar filas impuestos"
+
+#: ../core/class-wooreport-reports.php:1934
+msgid "Category"
+msgstr "Categoría"
+
+#: ../core/class-wooreport-reports.php:2037
+msgid "Top category"
+msgstr "Categoría Superior"
+
+#: ../core/class-wooreport-reports.php:2046
+msgid "Worst category"
+msgstr "Peor categoría"
+
+#: ../core/class-wooreport-reports.php:2054
+msgid "Category sales average"
+msgstr "Promedio de ventas por Categoría"
+
+#: ../core/class-wooreport-reports.php:2065
+msgid "Category sales median"
+msgstr "Mediana de ventas por Categoría"
+
+#: ../core/class-wooreport-reports.php:2085
+msgid "Monthly sales by category"
+msgstr "Ventas mensuales por categoría"
+
+#: ../templates/class-wooreport-template.php:34
+msgid "Total sales"
+msgstr "Ventas totales"
+
+#: ../templates/class-wooreport-template.php:36
+#: ../templates/class-wooreport-template.php:65
+msgid "Total sales:"
+msgstr "Ventas totales:"
+
+#: ../templates/class-wooreport-template.php:37
+#: ../templates/class-wooreport-template.php:66
+msgid "Total orders:"
+msgstr "Pedidos totales:"
+
+#: ../templates/class-wooreport-template.php:38
+#: ../templates/class-wooreport-template.php:67
+msgid "Total items:"
+msgstr "Artículos totales:"
+
+#: ../templates/class-wooreport-template.php:39
+#: ../templates/class-wooreport-template.php:68
+msgid "Average order total:"
+msgstr "Promedio total órdenes:"
+
+#: ../templates/class-wooreport-template.php:40
+#: ../templates/class-wooreport-template.php:69
+msgid "Average order items:"
+msgstr "Promedio artículos por orden:"
+
+#: ../templates/class-wooreport-template.php:41
+msgid "Discounts used:"
+msgstr "Descuentos utilizados:"
+
+#: ../templates/class-wooreport-template.php:42
+msgid "Total shipping costs:"
+msgstr "Costos totales de envío:"
+
+#: ../templates/class-wooreport-template.php:62
+msgid "Daily sales"
+msgstr "Ventas por Día"
+
+#: ../templates/class-wooreport-template.php:63
+msgid "Resume"
+msgstr "Reanudar"
+
+#: ../templates/class-wooreport-template.php:75
+msgid "Details"
+msgstr "Detalles"
+
+#: ../wooreport.php:74
+msgid "<strong>WooReport</strong> plugin requires Woocommerce."
+msgstr "<strong>Plugin  WooReport </strong> requiere WooCommerce."
+
+#: ../wooreport.php:104 ../wooreport.php:105
+msgid "WooEmailReport"
+msgstr "WooEmailReport"
+
+#: ../wooreport.php:116
+msgid "WooEmailReport "
+msgstr "WooEmailReport"
+
+#: ../wooreport.php:158
+msgid "Frecuency:"
+msgstr "Frecuencia:"
+
+#: ../wooreport.php:175
+msgid "Type report:"
+msgstr "Tipo de informe:"
+
+#: ../wooreport.php:184
+msgid "Emails (separated by comma)"
+msgstr "Emails (separados por comas)"
+
+#: ../wooreport.php:199
+msgid "No cron created"
+msgstr "Ningún cron creado"
